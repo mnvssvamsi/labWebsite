@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Install react player to add videos - react-player;
+Install  React font-awesome icons to use them .
+/
+npm i --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/react-fontawesome
+/
+
 ## Available Scripts
 
 In the project directory, you can run:
